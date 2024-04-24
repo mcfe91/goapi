@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi"
-	"github.com/mmcferren/goapi/internal/handlers"
+	"github.com/mcfe91/goapi/internal/handlers"
 	log "github.com/sirupsen/logrus"
 )
 

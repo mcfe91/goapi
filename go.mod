@@ -1,4 +1,4 @@
-module github.com/mmcferren/goapi
+module github.com/mcfe91/goapi
 
 go 1.22.2
 
